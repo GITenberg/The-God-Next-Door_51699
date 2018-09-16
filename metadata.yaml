@@ -1,0 +1,34 @@
+_repo: The-God-Next-Door_51699
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ivie, Larry
+    birthdate: 1936
+    deathdate: 2014
+    gutenberg_agent_id: '32452'
+    url: http://www.gutenberg.org/2009/agents/32452
+creator:
+  author:
+    agent_name: Doede, William R.
+    alias: Doede, Bill
+    birthdate: 1918
+    gutenberg_agent_id: '46090'
+    url: http://www.gutenberg.org/2009/agents/46090
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: The God Next Door
+url: http://www.gutenberg.org/ebooks/51699
